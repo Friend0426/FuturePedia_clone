@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</id>
+    <title>Robi rada</title>
+    <updated>2023-06-17T21:04:46.837Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Tony Stark</name>
+        <email>stark@example.com</email>
+        <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+    </author>
+    <link rel="alternate" href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"/>
+    <link rel="self" href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/atom.xml"/>
+    <subtitle>Blog starter template with modern frontend technologies like Next.js, Tailwind CSS, Contentlayer, i18Next</subtitle>
+    <logo>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/logo.png</logo>
+    <icon>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/logo.png</icon>
+    <rights>Copyright © 2015 - 2023 Stark Industries</rights>
+    <entry>
+        <title type="html"><![CDATA[IngestAI]]></title>
+        <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai</id>
+        <link href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai"/>
+        <updated>2022-09-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Boost Your Business Efficiency with AI-Powered Employee Assistant. Help your employees be always in-the-know, enhancing decision-making, and saving their valuable time!]]></summary>
+        <author>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StockImg AI]]></title>
+        <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo</id>
+        <link href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo"/>
+        <updated>2022-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-powered design service for logos, images, posters, book covers, and more.]]></summary>
+        <author>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPTGO]]></title>
+        <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo</id>
+        <link href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo"/>
+        <updated>2022-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT combined with Google search]]></summary>
+        <author>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audyo]]></title>
+        <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images</id>
+        <link href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images"/>
+        <updated>2022-09-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Create audio like writing a doc]]></summary>
+        <author>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Durable]]></title>
+        <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code</id>
+        <link href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code"/>
+        <updated>2022-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Create a website, automate marketing & manage finances in 30 secs]]></summary>
+        <author>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </contributor>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upword]]></title>
+        <id>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo</id>
+        <link href="https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo"/>
+        <updated>2022-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Create summaries faster with Upword's AI tools.]]></summary>
+        <author>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </author>
+        <contributor>
+            <name>Tony Stark</name>
+            <email>stark@example.com</email>
+            <uri>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</uri>
+        </contributor>
+    </entry>
+</feed>

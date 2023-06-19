@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/favourites</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/latestaiNews</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/submitnew</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/submittool</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/posts/ingest-ai</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/posts/custom-link-demo</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/posts/more-content-demo</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/posts/post-with-images</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/posts/post-with-code</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/posts/markdown-demo</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/submitnew</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en/favourites</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/en</loc><lastmod>2023-04-25T07:04:08.128Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>

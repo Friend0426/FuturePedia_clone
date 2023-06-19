@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Robi rada</title>
+        <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</link>
+        <description>Blog starter template with modern frontend technologies like Next.js, Tailwind CSS, Contentlayer, i18Next</description>
+        <lastBuildDate>Sat, 17 Jun 2023 21:04:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Robi rada</title>
+            <url>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/logo.png</url>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app</link>
+        </image>
+        <copyright>Copyright © 2015 - 2023 Stark Industries</copyright>
+        <item>
+            <title><![CDATA[IngestAI]]></title>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai</link>
+            <guid>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai</guid>
+            <pubDate>Mon, 05 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Boost Your Business Efficiency with AI-Powered Employee Assistant. Help your employees be always in-the-know, enhancing decision-making, and saving their valuable time!]]></description>
+            <author>stark@example.com (Tony Stark)</author>
+            <enclosure url="https://cdn.sanity.io/images/u0v1th4q/production/fb90f190648d8b3c3b27c292e7826b4375f2e2bb-1900x996.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[StockImg AI]]></title>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo</link>
+            <guid>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo</guid>
+            <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[AI-powered design service for logos, images, posters, book covers, and more.]]></description>
+            <author>stark@example.com (Tony Stark)</author>
+            <enclosure url="https://cdn.sanity.io/images/u0v1th4q/production/d26dece586aba0c6f60615312bc35894b08d1ba9-1863x913.jpg?rect,0,1830,900&auto=format" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GPTGO]]></title>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo</link>
+            <guid>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo</guid>
+            <pubDate>Sat, 03 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[ChatGPT combined with Google search]]></description>
+            <author>stark@example.com (Tony Stark)</author>
+            <enclosure url="https://cdn.sanity.io/images/u0v1th4q/production/9c70e4df7c3de6044b124984c41bc7791d7f7551-1907x835.png?rect,0,1830,900&auto=format" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Audyo]]></title>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images</link>
+            <guid>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images</guid>
+            <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Create audio like writing a doc]]></description>
+            <author>stark@example.com (Tony Stark)</author>
+            <enclosure url="https://cdn.sanity.io/images/u0v1th4q/production/b6604a2d9dc6fb36c5bc7590308e262c5ecc5065-1917x848.png?rect,0,1830,900&auto=format" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Durable]]></title>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code</link>
+            <guid>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code</guid>
+            <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Create a website, automate marketing & manage finances in 30 secs]]></description>
+            <author>stark@example.com (Tony Stark)</author>
+            <enclosure url="https://cdn.sanity.io/images/u0v1th4q/production/51fde55567afcd81d357e7ee63e3777a46b0ed81-1680x876.png?rect,0,1830,900&auto=format" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Upword]]></title>
+            <link>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo</link>
+            <guid>https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo</guid>
+            <pubDate>Wed, 31 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Create summaries faster with Upword's AI tools.]]></description>
+            <author>stark@example.com (Tony Stark)</author>
+            <enclosure url="https://cdn.sanity.io/images/u0v1th4q/production/8b23dd2d5dab8f320cdb7d11deaea4ce9bc4f49f-1200x1200.png?rect,0,1830,900&auto=format" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>

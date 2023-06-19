@@ -1,0 +1,86 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Robi rada",
+    "home_page_url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app",
+    "feed_url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/feed.json",
+    "description": "Blog starter template with modern frontend technologies like Next.js, Tailwind CSS, Contentlayer, i18Next",
+    "icon": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/logo.png",
+    "author": {
+        "name": "Tony Stark",
+        "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+    },
+    "items": [
+        {
+            "id": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai",
+            "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/ingest-ai",
+            "title": "IngestAI",
+            "summary": "Boost Your Business Efficiency with AI-Powered Employee Assistant. Help your employees be always in-the-know, enhancing decision-making, and saving their valuable time!",
+            "image": "https://cdn.sanity.io/images/u0v1th4q/production/fb90f190648d8b3c3b27c292e7826b4375f2e2bb-1900x996.png",
+            "date_modified": "2022-09-05T00:00:00.000Z",
+            "author": {
+                "name": "Tony Stark",
+                "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+            }
+        },
+        {
+            "id": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo",
+            "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/custom-link-demo",
+            "title": "StockImg AI",
+            "summary": "AI-powered design service for logos, images, posters, book covers, and more.",
+            "image": "https://cdn.sanity.io/images/u0v1th4q/production/d26dece586aba0c6f60615312bc35894b08d1ba9-1863x913.jpg?rect,0,1830,900&auto=format",
+            "date_modified": "2022-09-04T00:00:00.000Z",
+            "author": {
+                "name": "Tony Stark",
+                "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+            }
+        },
+        {
+            "id": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo",
+            "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/more-content-demo",
+            "title": "GPTGO",
+            "summary": "ChatGPT combined with Google search",
+            "image": "https://cdn.sanity.io/images/u0v1th4q/production/9c70e4df7c3de6044b124984c41bc7791d7f7551-1907x835.png?rect,0,1830,900&auto=format",
+            "date_modified": "2022-09-03T00:00:00.000Z",
+            "author": {
+                "name": "Tony Stark",
+                "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+            }
+        },
+        {
+            "id": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images",
+            "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-images",
+            "title": "Audyo",
+            "summary": "Create audio like writing a doc",
+            "image": "https://cdn.sanity.io/images/u0v1th4q/production/b6604a2d9dc6fb36c5bc7590308e262c5ecc5065-1917x848.png?rect,0,1830,900&auto=format",
+            "date_modified": "2022-09-02T00:00:00.000Z",
+            "author": {
+                "name": "Tony Stark",
+                "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+            }
+        },
+        {
+            "id": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code",
+            "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/post-with-code",
+            "title": "Durable",
+            "summary": "Create a website, automate marketing & manage finances in 30 secs",
+            "image": "https://cdn.sanity.io/images/u0v1th4q/production/51fde55567afcd81d357e7ee63e3777a46b0ed81-1680x876.png?rect,0,1830,900&auto=format",
+            "date_modified": "2022-09-01T00:00:00.000Z",
+            "author": {
+                "name": "Tony Stark",
+                "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+            }
+        },
+        {
+            "id": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo",
+            "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app/posts/markdown-demo",
+            "title": "Upword",
+            "summary": "Create summaries faster with Upword's AI tools.",
+            "image": "https://cdn.sanity.io/images/u0v1th4q/production/8b23dd2d5dab8f320cdb7d11deaea4ce9bc4f49f-1200x1200.png?rect,0,1830,900&auto=format",
+            "date_modified": "2022-08-31T00:00:00.000Z",
+            "author": {
+                "name": "Tony Stark",
+                "url": "https://nextjs-tailwind-contentlayer-blog-starter.vercel.app"
+            }
+        }
+    ]
+}
